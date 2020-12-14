@@ -1,0 +1,34 @@
+{
+  "name": "BleakFlawedConferences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "avconv": "^3.1.0",
+    "discord-music-player": "^6.1.1-fix3",
+    "discord-music-wrapper": "^1.2.0",
+    "discord-player": "^3.0.3",
+    "discord-ytdl-core": "^5.0.0",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "merge-options": "^3.0.4",
+    "node": "^15.3.0",
+    "node-fetch": "^2.6.1",
+    "opusscript": "0.0.7",
+    "prism-media": "^1.2.3",
+    "spotify-url": "^1.0.0",
+    "spotify-url-info": "^2.2.0",
+    "yt-search": "^2.5.1",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.1.4",
+    "ytdl-core-discord": "^1.2.4",
+    "ytpl": "^2.0.0-alpha.3",
+    "ytsr": "^1.0.4"
+  }
+}
